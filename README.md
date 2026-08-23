@@ -1,27 +1,20 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                    RANCHAL MAURYA                            ║
-║              AppSec • Mobile • Development                   ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranchal+Maurya;AppSec+%7C+Mobile+Developer;Building+Apps+%7C+Breaking+Bugs+%7C+Securing+Code;Learn+%E2%80%A2+Build+%E2%80%A2+Test+%E2%80%A2+Secure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranchal+Maurya;AppSec+%7C+Mobile+Developer;Building+Apps+%7C+Breaking+Bugs+%7C+Securing+Code;Build+%E2%80%A2+Break+%E2%80%A2+Learn+%E2%80%A2+Secure" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  Security-minded Developer • AppSec • Mobile Development • Open Source
+  AppSec & Mobile Developer | Building Apps, Breaking Bugs, Securing Code
 </h3>
 
 <p align="center">
-  <a href="https://github.com/ibohide">
-    <img src="https://komarev.com/ghpvc/?username=ibohide&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/RanchalOfficial">
+    <img src="https://komarev.com/ghpvc/?username=RanchalOfficial&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
   </a>
-  <a href="https://github.com/ibohide?tab=followers">
-    <img src="https://img.shields.io/github/followers/ibohide?label=Followers&style=for-the-badge&logo=github&color=00ff41" alt="GitHub Followers" />
+  <a href="https://github.com/RanchalOfficial?tab=followers">
+    <img src="https://img.shields.io/github/followers/RanchalOfficial?label=Followers&style=for-the-badge&logo=github&color=00ff41" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/ibohide?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ibohide?label=Stars&style=for-the-badge&logo=github&color=00ff41" alt="GitHub Stars" />
+  <a href="https://github.com/RanchalOfficial?tab=repositories">
+    <img src="https://img.shields.io/github/stars/RanchalOfficial?label=Stars&style=for-the-badge&logo=github&color=00ff41" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -36,18 +29,16 @@ Ranchal Maurya
 
 $ cat profile.txt
 
-NAME      : Ranchal Maurya
-FOCUS     : AppSec • Mobile Development • Web Development
-INTERESTS : Secure Coding • Automation • Open Source
-CURRENT   : Learning • Building • Testing
-STATUS    : ONLINE
+ROLE        : AppSec & Mobile Developer
+FOCUS       : Application Security • Mobile • Web
+INTERESTS   : Secure Coding • Pentesting • Automation
+CURRENT     : Building • Testing • Learning
+STATUS      : ONLINE
 ```
 
-I'm a developer interested in **application security, mobile development and software engineering**.
+I build software with security in mind — from the first line of code to the final test.
 
-I enjoy building applications, exploring how software works, finding weaknesses, improving code quality and learning new technologies.
-
-> **Build it. Understand it. Test it. Secure it.**
+> **I write code to build something new, and then I wear the black hat to break it—because the best defense is knowing how the offense works. Every app I ship is battle-tested from an attacker's perspective.**
 
 ---
 
@@ -55,32 +46,32 @@ I enjoy building applications, exploring how software works, finding weaknesses,
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
+│                        CURRENT MISSION                       │
+├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  🔭  AppSec Tools                                            │
-│  🔐  Security Testing Scripts                                │
+│  🔐  Pentesting Scripts                                      │
 │  🛡️  OWASP Projects                                         │
 │  📱  Mobile Applications                                     │
-│  🌐  Web Projects                                           │
-│  🤖  Automation Experiments                                  │
+│  🌐  Web Applications                                        │
+│  🤖  Security Automation                                     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### Currently Learning
+### 🌱 Currently Learning
 
 `Burp Suite` · `Kali Linux` · `React Native` · `OWASP Top 10`
 
 ---
 
-# 🧠 Security & Development Focus
+# 🧠 Security Focus
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Application%20Security-111111?style=for-the-badge&logo=datadog&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Penetration%20Testing-111111?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Secure%20Coding-111111?style=for-the-badge&logo=github&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Mobile%20Development-111111?style=for-the-badge&logo=android&logoColor=00ff41" />
-
+  <img src="https://img.shields.io/badge/Application%20Security-0D1117?style=for-the-badge&logo=owasp&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Secure%20Coding-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Mobile%20Security-0D1117?style=for-the-badge&logo=android&logoColor=00FF41" />
 </p>
 
 ---
@@ -117,12 +108,12 @@ I enjoy building applications, exploring how software works, finding weaknesses,
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ibohide&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api?username=RanchalOfficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"
     height="180"
-    alt="Ranchal Maurya GitHub Stats"
+    alt="RanchalOfficial GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibohide&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanchalOfficial&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"
     height="180"
     alt="Top Languages"
   />
@@ -134,8 +125,8 @@ I enjoy building applications, exploring how software works, finding weaknesses,
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=ibohide&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com/?user=RanchalOfficial&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E"
+    alt="RanchalOfficial GitHub Contribution Streak"
   />
 </p>
 
@@ -145,8 +136,8 @@ I enjoy building applications, exploring how software works, finding weaknesses,
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ibohide&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RanchalOfficial&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"
+    alt="RanchalOfficial Contribution Activity Graph"
   />
 </p>
 
@@ -156,8 +147,8 @@ I enjoy building applications, exploring how software works, finding weaknesses,
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ibohide&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7"
-    alt="GitHub Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=RanchalOfficial&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7"
+    alt="RanchalOfficial GitHub Trophies"
   />
 </p>
 
@@ -171,9 +162,9 @@ I enjoy building applications, exploring how software works, finding weaknesses,
 
 ### 🔐 AppSec Toolkit
 
-Security-oriented utilities and scripts for learning application security.
+Security-focused tools, scripts and experiments for application security.
 
-**Focus:** AppSec · Automation · Security Testing
+`AppSec` · `Automation` · `Testing`
 
 </td>
 
@@ -181,9 +172,9 @@ Security-oriented utilities and scripts for learning application security.
 
 ### 📱 Mobile Lab
 
-Experimental mobile applications and development projects.
+Experimental mobile applications with a security-first mindset.
 
-**Focus:** Android · Kotlin · Flutter · React Native
+`Android` · `Kotlin` · `Flutter`
 
 </td>
 </tr>
@@ -193,9 +184,9 @@ Experimental mobile applications and development projects.
 
 ### 🌐 Web Projects
 
-Web applications, experiments and developer tools.
+Web applications and developer tools built to solve practical problems.
 
-**Focus:** JavaScript · React · Node.js
+`JavaScript` · `React` · `Node.js`
 
 </td>
 
@@ -203,9 +194,9 @@ Web applications, experiments and developer tools.
 
 ### 🧪 OWASP Lab
 
-Hands-on security learning projects inspired by OWASP concepts.
+Hands-on projects for understanding vulnerabilities and secure development.
 
-**Focus:** OWASP · Secure Coding · Testing
+`OWASP` · `Secure Coding` · `Pentesting`
 
 </td>
 </tr>
@@ -220,31 +211,29 @@ Hands-on security learning projects inspired by OWASP concepts.
 [02] █████████████████░░░░░  Mobile Security Lab
 [03] ███████████████░░░░░░░  Developer Security Tools
 [04] ████████████░░░░░░░░░░  OWASP Learning Projects
-[05] █████████░░░░░░░░░░░░░  Open Source Utilities
+[05] █████████░░░░░░░░░░░░░  Security Automation Suite
 ```
 
-| Project                | Stage       | Main Focus           |
+| Project                | Status      | Focus                |
 | ---------------------- | ----------- | -------------------- |
 | 🔐 AppSec Toolkit      | 🟢 Building | Security Automation  |
 | 📱 Mobile Security Lab | 🟡 Planning | Mobile Security      |
 | 🧪 OWASP Projects      | 🟡 Active   | Application Security |
-| 🤖 Automation Tools    | 🔵 Research | Python / Scripts     |
+| 🤖 Automation Suite    | 🔵 Research | Python / Scripts     |
 | 🌐 Developer Toolkit   | 🔵 Planning | Web Development      |
 
 ---
 
-# 💻 Featured Repositories
+# 📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/ibohide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibohide&repo=YOUR_REPO_1&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+  <a href="https://github.com/RanchalOfficial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RanchalOfficial&repo=YOUR_REPO_1&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
   </a>
-  <a href="https://github.com/ibohide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibohide&repo=YOUR_REPO_2&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+  <a href="https://github.com/RanchalOfficial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RanchalOfficial&repo=YOUR_REPO_2&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
   </a>
 </p>
-
-> Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names.
 
 ---
 
@@ -252,7 +241,7 @@ Hands-on security learning projects inspired by OWASP concepts.
 
 <p align="center">
 
-<a href="https://github.com/ibohide">
+<a href="https://github.com/RanchalOfficial">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" />
 </a>
 
@@ -272,31 +261,30 @@ Hands-on security learning projects inspired by OWASP concepts.
 
 ---
 
-# 🧩 Development Philosophy
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   CODE       →  BUILD                                       │
-│   BUILD      →  TEST                                        │
-│   TEST       →  BREAK                                       │
-│   BREAK      →  LEARN                                       │
-│   LEARN      →  SECURE                                      │
-│   SECURE     →  SHIP                                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-> **"The goal isn't just to make software work.
-> The goal is to understand how it works — and make it better."**
-
----
-
-# 📡 SYSTEM STATUS
+# 🧩 My Development Philosophy
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                  RANCHAL MAURYA // DEV                      ║
+║                                                              ║
+║  CODE        → BUILD                                        ║
+║  BUILD       → TEST                                         ║
+║  TEST        → BREAK                                        ║
+║  BREAK       → LEARN                                        ║
+║  LEARN       → SECURE                                       ║
+║  SECURE      → SHIP                                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> **"The strongest defense comes from understanding how the attack works."**
+
+---
+
+# 📡 Live Profile Status
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                  RANCHALOFFICIAL // DEV                     ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  SYSTEM          : ONLINE                                   ║
@@ -312,7 +300,7 @@ Hands-on security learning projects inspired by OWASP concepts.
 
 <p align="center">
 
-### `⚡ BUILD • TEST • SECURE • REPEAT ⚡`
+### `⚡ BUILD • BREAK • LEARN • SECURE • REPEAT ⚡`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003300,100:00FF41&height=120&section=footer" />
 
