@@ -208,7 +208,7 @@ Mobile applications and development experiments.
 
 Programming projects built with the languages and tools I use.
 
-`C` `C++` `Java` `JavaScript` `Python` `PHP`
+`HTML` `CSS` `Java` `JavaScript` `Python` `PHP`
 
 </td>
 
@@ -241,20 +241,20 @@ Learning, testing and experimenting with application security.
 
 <p align="center">
 
-<a href="https://github.com/RanchalOfficial">
-  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF9D" />
+<a href="https://github.com/RanchalOfficial" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF9D" alt="GitHub" />
 </a>
 
-<a href="https://twitter.com/ci7_ranchal">
-  <img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=8B5CF6" />
+<a href="https://twitter.com/ci7_ranchal" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=8B5CF6" alt="X" />
 </a>
 
-<a href="https://linkedin.com/in/ranchalofficial">
-  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+<a href="https://linkedin.com/in/ranchalofficial" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
 </a>
 
-<a href="https://instagram.com/ranchaleducation">
-  <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=FF3CAC" />
+<a href="https://instagram.com/ranchaleducation" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=FF3CAC" alt="Instagram" />
 </a>
 
 </p>
