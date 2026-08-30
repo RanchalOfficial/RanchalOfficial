@@ -1,20 +1,20 @@
 <!-- ============================================================
-     RANCHALOFFICIAL // PROFILE README
-     Cyber • Security • Development • Research
+     RANCHALOFFICIAL // GITHUB PROFILE
+     Ranchal Maurya
      ============================================================ -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=RANCHAL%20MAURYA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=APPSEC%20%E2%80%A2%20MOBILE%20%E2%80%A2%20DEVELOPMENT%20%E2%80%A2%20SECURITY&descAlignY=61&animation=twinkling&color=0:050505,25:111827,50:172554,75:3b0764,100:00ff9d"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=RANCHAL%20MAURYA&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=APPSEC%20%E2%80%A2%20MOBILE%20DEVELOPMENT%20%E2%80%A2%20SECURITY&descAlignY=61&animation=twinkling&color=0:050505,30:111827,55:312e81,80:7c3aed,100:00ff9d"
     width="100%"
-    alt="Ranchal Maurya animated header"
+    alt="Ranchal Maurya"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=850&color=00FF9D&center=true&vCenter=true&width=900&lines=%3E+Initializing+RanchalOfficial...;%3E+Security+systems+online;%3E+Build+it.+Break+it.+Understand+it.+Secure+it.;%3E+Application+Security+%7C+Mobile+Development;%3E+Welcome+to+the+lab."
-    alt="Animated terminal introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=900&color=00FF9D&center=true&vCenter=true&width=900&lines=%3E+Initializing+RanchalOfficial...;%3E+Security+systems+online;%3E+Build+it.+Break+it.+Understand+it.;%3E+Application+Security+%7C+Mobile+Development;%3E+Welcome+to+the+lab."
+    alt="Animated terminal"
   />
 </p>
 
@@ -26,37 +26,39 @@
 
 <p align="center">
   <a href="https://github.com/RanchalOfficial">
-    <img src="https://komarev.com/ghpvc/?username=RanchalOfficial&label=PROFILE%20VIEWS&style=flat-square&color=00FF9D&labelColor=050505" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=RanchalOfficial&label=PROFILE%20VIEWS&style=flat-square&color=00ff9d" alt="Profile views" />
   </a>
   <a href="https://github.com/RanchalOfficial?tab=followers">
-    <img src="https://img.shields.io/github/followers/RanchalOfficial?label=FOLLOWERS&style=flat-square&logo=github&color=8B5CF6&logoColor=ffffff" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/RanchalOfficial?label=FOLLOWERS&style=flat-square&logo=github&color=8b5cf6" alt="Followers" />
   </a>
   <a href="https://github.com/RanchalOfficial?tab=repositories">
-    <img src="https://img.shields.io/github/stars/RanchalOfficial?label=STARS&style=flat-square&logo=github&color=FF3CAC&logoColor=ffffff" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/RanchalOfficial?label=STARS&style=flat-square&logo=github&color=ff3cac" alt="Stars" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&lines=%5B+WHOAMI+%5D;%5B+SECURITY-MINDED+DEVELOPER+%5D;%5B+BUILDER+%2F+TESTER+%2F+LEARNER+%5D" alt="Whoami animation" />
-</h2>
+## `whoami`
 
-<p align="center">
-  <strong>AppSec & Mobile Developer</strong><br/>
-  Building applications • breaking bugs • securing code
-</p>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                    RANCHALOFFICIAL                       │
+├──────────────────────────────────────────────────────────┤
+│ NAME        : Ranchal Maurya                             │
+│ ROLE        : AppSec & Mobile Developer                  │
+│ FOCUS       : Security • Development • Research           │
+│ STATUS      : Building                                   │
+│ ENVIRONMENT : Learn • Build • Test • Secure               │
+└──────────────────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <code>BUILD</code> ──▶
-  <code>TEST</code> ──▶
-  <code>BREAK</code> ──▶
-  <code>LEARN</code> ──▶
-  <code>HARDEN</code> ──▶
-  <code>SHIP</code>
-</p>
+I build applications, explore how systems fail, and use those lessons to create stronger software.
 
-> I write code to build something new, and then I wear the black hat to break it—because the best defense is knowing how the offense works. Every app I ship is battle-tested from an attacker's perspective.
+My main interests are:
+
+`Application Security` · `Mobile Development` · `Secure Coding` · `Automation` · `Security Research`
+
+> **I write code to build something new, and then I wear the black hat to break it—because the best defense is knowing how the offense works. Every app I ship is battle-tested from an attacker's perspective.**
 
 ---
 
@@ -76,7 +78,7 @@ Application security, secure coding and vulnerability analysis.
 
 ### 📱 Mobile
 
-Building and testing mobile applications.
+Building, testing and experimenting with mobile applications.
 
 </td>
 
@@ -92,8 +94,8 @@ Security experiments, automation and OWASP-based learning.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=FF3CAC&center=true&vCenter=true&width=820&lines=Scanning...+%7C+Testing...+%7C+Learning...+%7C+Improving...;Offensive+thinking+%E2%86%92+Defensive+engineering;Curiosity+is+the+real+exploit."
-    alt="Animated security status"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=950&color=FF3CAC&center=true&vCenter=true&width=820&lines=Scanning...+%7C+Testing...+%7C+Learning...+%7C+Improving...;Offensive+thinking+%E2%86%92+Defensive+engineering;Curiosity+is+the+real+exploit."
+    alt="Security animation"
   />
 </p>
 
@@ -112,31 +114,27 @@ Security experiments, automation and OWASP-based learning.
 
 ---
 
-# 🛠️ TECHNOLOGY MATRIX
+# 🛠️ TECH STACK
 
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,dart,js,ts,python,php,ruby" />
 </p>
 
-### Web & Backend
+### Mobile & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,react,angular,vue,nodejs,express,mysql" />
-</p>
-
-### Mobile
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,reactnative" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,reactnative,react,angular,vue" />
 </p>
 
 ### Systems & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,docker" />
 </p>
+
+> No separate **Web & Backend** section — the stack is intentionally kept compact and focused.
 
 ---
 
@@ -146,12 +144,12 @@ Security experiments, automation and OWASP-based learning.
   <img
     src="https://github-readme-stats.vercel.app/api?username=RanchalOfficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00FF9D&icon_color=8B5CF6&text_color=D1D5DB"
     width="49%"
-    alt="GitHub Statistics"
+    alt="GitHub statistics"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanchalOfficial&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=FF3CAC&text_color=D1D5DB"
     width="49%"
-    alt="Top Languages"
+    alt="Top languages"
   />
 </p>
 
@@ -162,30 +160,30 @@ Security experiments, automation and OWASP-based learning.
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=RanchalOfficial&hide_border=true&background=050505&ring=00FF9D&fire=FF3CAC&currStreakLabel=8B5CF6&sideLabels=D1D5DB&dates=6B7280"
-    alt="Contribution Streak"
+    alt="GitHub contribution streak"
   />
 </p>
 
 ---
 
-# 📈 ACTIVITY MATRIX
+# 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=RanchalOfficial&bg_color=050505&color=00FF9D&line=8B5CF6&point=FF3CAC&area=true&hide_border=true"
     width="100%"
-    alt="GitHub Activity Graph"
+    alt="GitHub contribution activity"
   />
 </p>
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=RanchalOfficial&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"
-    alt="GitHub Trophies"
+    alt="GitHub trophies"
   />
 </p>
 
@@ -197,19 +195,19 @@ Security experiments, automation and OWASP-based learning.
 <tr>
 <td width="50%" valign="top">
 
-## 🔐 AppSec Toolkit
+### 🔐 AppSec Toolkit
 
-Security-oriented utilities, testing helpers and automation.
+Security-oriented utilities, testing helpers and automation experiments.
 
-`OWASP` · `Python` · `Automation`
+`OWASP` · `Python` · `Security`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📱 Mobile Lab
+### 📱 Mobile Lab
 
-Mobile applications and experiments built with a security mindset.
+Mobile applications and experiments built with a security-first mindset.
 
 `Android` · `Kotlin` · `Flutter`
 
@@ -219,21 +217,21 @@ Mobile applications and experiments built with a security mindset.
 <tr>
 <td width="50%" valign="top">
 
-## 🌐 Web Lab
+### 🧪 Security Research
 
-Web applications, developer utilities and experiments.
+Proof-of-concepts, research projects and security experiments.
 
-`JavaScript` · `React` · `Node.js`
+`AppSec` · `Pentesting` · `Research`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧪 Security Research
+### ⚙️ Developer Tools
 
-Research projects, proof-of-concepts and security experiments.
+Small utilities designed to make development and testing easier.
 
-`AppSec` · `Pentesting` · `Research`
+`Python` · `JavaScript` · `CLI`
 
 </td>
 </tr>
@@ -241,31 +239,31 @@ Research projects, proof-of-concepts and security experiments.
 
 ---
 
-# 🔮 UPCOMING
+# 🔮 UPCOMING PROJECTS
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=950&color=00FF9D&center=true&vCenter=true&width=850&lines=%5B01%5D+AppSec+Toolkit;%5B02%5D+Mobile+Security+Lab;%5B03%5D+Developer+Security+Tools;%5B04%5D+OWASP+Projects;%5B05%5D+Open+Source+Experiments"
-    alt="Animated roadmap"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=900&color=00FF9D&center=true&vCenter=true&width=850&lines=%5B01%5D+AppSec+Toolkit;%5B02%5D+Mobile+Security+Lab;%5B03%5D+Developer+Security+Tools;%5B04%5D+OWASP+Projects;%5B05%5D+Open+Source+Experiments"
+    alt="Project roadmap"
   />
 </p>
 
 ---
 
-# 💭 ENGINEERING MINDSET
-
-> **The strongest defense comes from understanding the attack.**
+# 🧩 DEVELOPMENT LOOP
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Create+something.;Question+everything.;Test+the+edges.;Break+the+assumptions.;Learn+from+failure.;Build+it+better."
-    alt="Engineering mindset animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=850&color=8B5CF6&center=true&vCenter=true&width=800&lines=CREATE+%E2%86%92+QUESTION+%E2%86%92+TEST+%E2%86%92+BREAK;BREAK+%E2%86%92+LEARN+%E2%86%92+HARDEN+%E2%86%92+SHIP"
+    alt="Development loop"
   />
 </p>
 
+> **The strongest defense comes from understanding how the attack works.**
+
 ---
 
-# 🌐 CONNECT
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 
@@ -291,14 +289,14 @@ Research projects, proof-of-concepts and security experiments.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE+%E2%80%A2+CONTRIBUTIONS+TRACKING+%E2%80%A2+MISSION+ACTIVE"
-    alt="Live profile status"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=00FF9D&center=true&vCenter=true&width=720&lines=SYSTEM+ONLINE+%E2%80%A2+CONTRIBUTIONS+TRACKING+%E2%80%A2+MISSION+ACTIVE"
+    alt="Live status"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:00FF9D,30:8B5CF6,60:FF3CAC,100:050505"
+    src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:00FF9D,30:8B5CF6,65:FF3CAC,100:050505"
     width="100%"
     alt="Animated footer"
   />
