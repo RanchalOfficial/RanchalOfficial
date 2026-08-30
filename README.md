@@ -117,7 +117,7 @@ Security experiments, automation and OWASP-based learning.
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,dart,js,ts,python,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,php" />
 </p>
 
 ### Web & Backend
@@ -129,13 +129,13 @@ Security experiments, automation and OWASP-based learning.
 ### Mobile
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,reactnative" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,reactnative" />
 </p>
 
 ### Systems & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
 ---
